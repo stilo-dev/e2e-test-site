@@ -1,0 +1,8 @@
+{
+  "$schema": "https://stilo.li/schema/config-v1.json",
+  "siteId": "st_e2e0001",
+  "contentDir": "content",
+  "imageDir": "public/images/stilo",
+  "defaultLocale": "en",
+  "apiUrl": "https://stilo-backend-eight.vercel.app"
+}

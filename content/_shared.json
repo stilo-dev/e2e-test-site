@@ -1,0 +1,7 @@
+{
+  "$schema": "https://stilo.li/schema/content-v1.json",
+  "site.name": {
+    "type": "text",
+    "value": "Stilo E2E Test"
+  }
+}

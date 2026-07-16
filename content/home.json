@@ -1,0 +1,18 @@
+{
+  "$schema": "https://stilo.li/schema/content-v1.json",
+  "hero.cta": {
+    "type": "link",
+    "value": {
+      "href": "https://stilo.li",
+      "label": "Visit Stilo"
+    }
+  },
+  "hero.subtitle": {
+    "type": "richtext",
+    "value": "This is a **throwaway** site used to test the Stilo M3 backend end-to-end."
+  },
+  "hero.title": {
+    "type": "text",
+    "value": "Hello from the E2E test site"
+  }
+}
