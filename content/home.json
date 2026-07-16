@@ -13,6 +13,6 @@
   },
   "hero.title": {
     "type": "text",
-    "value": "Hello from the M3 end-to-end test!"
+    "value": "Dev also changed the title"
   }
 }
