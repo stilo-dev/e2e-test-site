@@ -13,6 +13,6 @@
   },
   "hero.title": {
     "type": "text",
-    "value": "Hello from the E2E test site"
+    "value": "Hello from the M3 end-to-end test!"
   }
 }
